@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mannimarco / Personal homepage"
 title_separator          : "-"
 name                     : &name "Mannimarco"
-description              : &description "personal description"
+description              : &description " Graduate from Psijjj Order"
 url                      : https://Psixiv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://Psixiv.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Magc0da/Psixiv.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Mannimarco"
   avatar           : "shamine-king-the-king-of-worms-da-01.png"
   bio              : "The Greatest Necromancer of All Time"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Bruma"
+  employer         : "Countess Carvain"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  # email            :
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,22 +99,22 @@ author:
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  # instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
+  # linkedin         :
+  # orcid            : "http://orcid.org/yourorcidurl"
+  # pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :
+  # tumblr           :
+  # twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            :
+  # weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
+  # youtube          :
+  # wikipedia        :
 
 
 # Reading Files
